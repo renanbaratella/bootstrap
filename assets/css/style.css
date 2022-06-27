@@ -1,8 +1,11 @@
 #body{
-    background-color: grey;
+    background-color: azure;
 }
 
 .center{
     text-align: center;
 }
 
+#elenco{
+    background-image: url(../img/strangerthings.jpg);
+}
